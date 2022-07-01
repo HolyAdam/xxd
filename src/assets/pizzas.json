@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/61d6f99c33424d75a4f7bdfd5dcb0572_292x292.jpeg",
+        "name": "Маргарита",
+        "types": [0, 1],
+        "sizes": [26, 30, 40],
+        "price": 400,
+        "category": 0,
+        "rating": 4.2
+    },
+    {
+        "id": 1,
+        "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+        "name": "Мексиканская",
+        "types": [0, 1],
+        "sizes": [26, 40],
+        "price": 520,
+        "category": 0,
+        "rating": 4.2
+    }
+]
